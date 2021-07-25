@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <img src = "https://github.com/ananan37326/ananan37326/blob/main/header.png">
+-->
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=ananan37326&show_icons=true&theme=radical)
 
