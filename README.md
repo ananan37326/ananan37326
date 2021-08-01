@@ -21,7 +21,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=asifhaider&layout
 <img src = "https://github.com/ananan37326/ananan37326/blob/main/header.png">
 
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=ananan37326&show_icons=true&theme=radical&hide=Jupyter%20Notebook)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=ananan37326&show_icons=true&theme=radical&hide=Jupyter%20Notebook&langs_count=12)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ananan37326&count_private=true&show_icons=true&theme=radical)
 
