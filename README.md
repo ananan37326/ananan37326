@@ -17,9 +17,16 @@ Here are some ideas to get you started:
 -->
 <img src = "https://github.com/ananan37326/ananan37326/blob/main/header.png">
 
+<h2>🔥 Streak Stats</h2>
 
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ananan37326&theme=gotham" alt="ananan37326" />
+</p>
+
+<p align="center">
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=ananan37326&layout=compact&show_icons=true&theme=radical&hide=yacc,Jupyter%20Notebook&langs_count=12)
+</p>
 
+<p align="center">
 ![github stats](https://github-readme-stats.vercel.app/api?username=ananan37326&count_private=true&show_icons=true&theme=radical)
-
-
+</p>
